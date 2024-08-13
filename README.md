@@ -1,2 +1,2 @@
 # Soltech-Theme
-Buid using HTML & CSS
+Build using HTML & CSS
